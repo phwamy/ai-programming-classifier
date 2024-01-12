@@ -2,7 +2,7 @@
 
 Project code for Udacity's AI Programming with Python Nanodegree program. In this project, I first develop code for an image classifier built with PyTorch, then convert it into a command line application.
 
-### Project Explaination
+## Project Explaination
 created: 01/11/2024
 
 1. Image_Classifier_Project.ipynb: The code is developing in the `Image_Classifier_Project.ipynb`.
