@@ -109,5 +109,9 @@ assets/
 Miniconda3-latest-MacOSX-arm64.sh
 MPS_setup.ipynb
 *.pyc
+
+# Mac OS
 .DS_Store
 
+#.pth files
+*.pth
