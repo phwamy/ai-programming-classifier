@@ -1,7 +1,11 @@
+<p align="center">
 <h1 style="text-align: center;">Built a Deep Neural Network Model for a Flower Image Classifier</h1>
+</p>
+
 <h2 style="text-align: center;">AI Programming with Python Project</h2>
 
 Project code for Udacity's AI Programming with Python Nanodegree program. 
+
 In this project, I developed code for an image classifier built with PyTorch and then converted it into a command-line application.
 
 ## File Explaination
