@@ -17,7 +17,7 @@ from PIL import Image
 # Action: Prints out training loss, validation loss, and validation accuracy as the network trains. In default, it will save a checkpoint.pth file in the current directory.
 # Basic usage: python train.py data_directory
 # Options: 
-# * Choose architecture: python train.py data_dir --arch "vgg13" 
+# * Choose architecture: python train.py data_dir --arch "vgg16" 
 # * Set hyperparameters: python train.py data_dir --learning_rate 0.01 --hidden_units 512 --epochs 4 
 # * Use GPU for training: python train.py data_dir --gpu
 # * Check data images: python train.py data_dir --check_image
