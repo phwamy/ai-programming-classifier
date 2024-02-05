@@ -1,5 +1,5 @@
-<p align="center">#Built a Deep Neural Network Model for a Flower Image Classifier</p>
-<h2 style="text-align: center;">AI Programming with Python Project</h2>
+<h1 align="center">Built a Deep Neural Network Model for a Flower Image Classifier</h1>
+<h2 aliggb="center">AI Programming with Python Project</h2>
 
 In this project, I developed code for an image classifier built with PyTorch and then converted it into a command-line application.
 
